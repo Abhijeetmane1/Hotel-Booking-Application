@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="catalog_script_client">
+    <catalog_script_client action="DELETE">
+        <active>true</active>
+        <applies_catalog>true</applies_catalog>
+        <applies_extended>false</applies_extended>
+        <applies_req_item>false</applies_req_item>
+        <applies_sc_task>false</applies_sc_task>
+        <applies_target_record>true</applies_target_record>
+        <applies_to>item</applies_to>
+        <cat_item display_value="Book Your Hotel">ac915fb987703010d05eeb173cbb3568</cat_item>
+        <cat_variable/>
+        <condition/>
+        <description/>
+        <field/>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Populate Cities From States</name>
+        <order/>
+        <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    //Type appropriate comment here, and begin script below
+    g_form.addInfoMessage("Value is " + newValue);
+    if (newValue == 'maharashtra') {
+		g_form.clearOptions('city');
+        g_form.addOption('city', 'pune', 'Pune');
+        g_form.addOption('city', 'mumbai', 'Mumbai');
+        g_form.addOption('city', 'nagpur', 'Nagpur');
+        g_form.addOption('city', 'nashik', 'Nashik');
+    }
+    if (newValue == 'karnataka') {
+		g_form.clearOptions('city');
+        g_form.addOption('city', 'bengaluru', 'Bengaluru');
+        g_form.addOption('city', 'mysuru', 'Mysuru');
+        g_form.addOption('city', 'bagalkot', 'Bagalkot');
+        g_form.addOption('city', 'manipal', 'Manipal');
+    }
+     if (newValue == 'tamilnadu') {
+		 g_form.clearOptions('city');
+        g_form.addOption('city', 'chennai', 'Chennai');
+        g_form.addOption('city', 'coimbtore', 'Coimbtore');
+        g_form.addOption('city', 'ooty', 'Ooty');
+        g_form.addOption('city', 'vellore', 'Vellore');
+    }
+     if (newValue == 'telangana') {
+		 g_form.clearOptions('city');
+        g_form.addOption('city', 'hydrabad', 'Hydrabad');
+        g_form.addOption('city', 'adilabad', 'Adilabad');
+        g_form.addOption('city', 'nalgonda', 'Nalgonda');
+        g_form.addOption('city', 'nizamabad', 'Nizamabad');
+    }
+
+}]]></script>
+        <sys_class_name>catalog_script_client</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-22 05:04:49</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bbc8f4787303010d05eeb173cbb3589</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate Cities From States</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>catalog_script_client_6bbc8f4787303010d05eeb173cbb3589</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-22 05:04:49</sys_updated_on>
+        <table/>
+        <type>onChange</type>
+        <ui_type>10</ui_type>
+        <variable_set/>
+        <view/>
+    </catalog_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</application>
+        <file_path/>
+        <instance_id>7eb0ffbfdb0a24d052dd2f17d49619c9</instance_id>
+        <instance_name>dev106450</instance_name>
+        <name>catalog_script_client_6bbc8f4787303010d05eeb173cbb3589</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="catalog_script_client"&gt;&lt;catalog_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;applies_catalog&gt;true&lt;/applies_catalog&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;applies_req_item&gt;false&lt;/applies_req_item&gt;&lt;applies_sc_task&gt;false&lt;/applies_sc_task&gt;&lt;applies_target_record&gt;true&lt;/applies_target_record&gt;&lt;applies_to&gt;item&lt;/applies_to&gt;&lt;cat_item display_value="Book Your Hotel"&gt;ac915fb987703010d05eeb173cbb3568&lt;/cat_item&gt;&lt;cat_variable/&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field/&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Populate Cities From States&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
+    if (isLoading || newValue === '') {
+        return;
+    }
+
+    //Type appropriate comment here, and begin script below
+    g_form.addInfoMessage("Value is " + newValue);
+    if (newValue == 'maharashtra') {
+		g_form.clearOptions('city');
+        g_form.addOption('city', 'pune', 'Pune');
+        g_form.addOption('city', 'mumbai', 'Mumbai');
+        g_form.addOption('city', 'nagpur', 'Nagpur');
+        g_form.addOption('city', 'nashik', 'Nashik');
+    }
+    if (newValue == 'karnataka') {
+		g_form.clearOptions('city');
+        g_form.addOption('city', 'bengaluru', 'Bengaluru');
+        g_form.addOption('city', 'mysuru', 'Mysuru');
+        g_form.addOption('city', 'bagalkot', 'Bagalkot');
+        g_form.addOption('city', 'manipal', 'Manipal');
+    }
+     if (newValue == 'tamilnadu') {
+		 g_form.clearOptions('city');
+        g_form.addOption('city', 'chennai', 'Chennai');
+        g_form.addOption('city', 'coimbtore', 'Coimbtore');
+        g_form.addOption('city', 'ooty', 'Ooty');
+        g_form.addOption('city', 'vellore', 'Vellore');
+    }
+     if (newValue == 'telangana') {
+		 g_form.clearOptions('city');
+        g_form.addOption('city', 'hydrabad', 'Hydrabad');
+        g_form.addOption('city', 'adilabad', 'Adilabad');
+        g_form.addOption('city', 'nalgonda', 'Nalgonda');
+        g_form.addOption('city', 'nizamabad', 'Nizamabad');
+    }
+
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;catalog_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-22 05:04:49&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;6bbc8f4787303010d05eeb173cbb3589&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate Cities From States&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho"&gt;4caa4bfc87d03010d05eeb173cbb3583&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Client Hotel Booking Application"&gt;4caa4bfc87d03010d05eeb173cbb3583&lt;/sys_scope&gt;&lt;sys_update_name&gt;catalog_script_client_6bbc8f4787303010d05eeb173cbb3589&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-22 05:04:49&lt;/sys_updated_on&gt;&lt;table/&gt;&lt;type&gt;onChange&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;variable_set/&gt;&lt;view/&gt;&lt;/catalog_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1600233035</payload_hash>
+        <record_name>Populate Cities From States</record_name>
+        <reverted_from/>
+        <source>8da15df287103010d05eeb173cbb351f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-22 05:04:49</sys_created_on>
+        <sys_id>7eee8f4787303010d05eeb173cbb359c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a321b524e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-22 05:04:49</sys_updated_on>
+        <type>Catalog Client Scripts</type>
+        <update_guid>b6ee8f478a30301040e6138799f8529c</update_guid>
+        <update_guid_history>b6ee8f478a30301040e6138799f8529c:1600233035</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Populate Cities From States">e5e019fb87303010d05eeb173cbb35cf</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 03:49:40</sys_created_on>
+        <sys_db_object display_value="" name="catalog_script_client">catalog_script_client</sys_db_object>
+        <sys_id>1521ea5002b64a4784980e668269ba49</sys_id>
+        <sys_metadata>6bbc8f4787303010d05eeb173cbb3589</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate Cities From States</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_scope_delete display_value="">59505f08103c4900b3d0d37c573a7b09</sys_scope_delete>
+        <sys_update_name>catalog_script_client_6bbc8f4787303010d05eeb173cbb3589</sys_update_name>
+        <sys_update_version display_value="catalog_script_client_6bbc8f4787303010d05eeb173cbb3589">7eee8f4787303010d05eeb173cbb359c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-24 03:49:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

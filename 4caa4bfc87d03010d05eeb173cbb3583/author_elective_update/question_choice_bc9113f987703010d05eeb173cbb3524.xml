@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="DELETE">
+        <inactive>false</inactive>
+        <order>2</order>
+        <published_ref display_value="Booking Pending">161e8ff587703010d05eeb173cbb3589</published_ref>
+        <question display_value="Booking State">b89113f987703010d05eeb173cbb3516</question>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-18 08:04:01</sys_created_on>
+        <sys_id>bc9113f987703010d05eeb173cbb3524</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Booking Pending</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>question_choice_bc9113f987703010d05eeb173cbb3524</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-18 08:04:01</sys_updated_on>
+        <text>Booking Pending</text>
+        <value>2</value>
+    </question_choice>
+    <fx_price action="DELETE" query="id=bc9113f987703010d05eeb173cbb3524"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</application>
+        <file_path/>
+        <instance_id>7eb0ffbfdb0a24d052dd2f17d49619c9</instance_id>
+        <instance_name>dev106450</instance_name>
+        <name>question_choice_bc9113f987703010d05eeb173cbb3524</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice"><question_choice action="INSERT_OR_UPDATE"><inactive>false</inactive><order>2</order><published_ref display_value="Booking Pending">161e8ff587703010d05eeb173cbb3589</published_ref><question display_value="Booking State">b89113f987703010d05eeb173cbb3516</question><sys_class_name>question_choice</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-18 08:04:01</sys_created_on><sys_id>bc9113f987703010d05eeb173cbb3524</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Booking Pending</sys_name><sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package><sys_policy/><sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope><sys_update_name>question_choice_bc9113f987703010d05eeb173cbb3524</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-18 08:04:01</sys_updated_on><text>Booking Pending</text><value>2</value></question_choice><fx_price action="delete_multiple" query="id=bc9113f987703010d05eeb173cbb3524"/></record_update>]]></payload>
+        <payload_hash>-116319244</payload_hash>
+        <record_name>Booking Pending</record_name>
+        <reverted_from/>
+        <source>8da15df287103010d05eeb173cbb351f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-18 08:04:01</sys_created_on>
+        <sys_id>b09113f987703010d05eeb173cbb3527</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a1e25f3a50000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-18 08:04:01</sys_updated_on>
+        <type>Question Choice</type>
+        <update_guid>389113f910703010889b98b1894d8426</update_guid>
+        <update_guid_history>389113f910703010889b98b1894d8426:-116319244</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Booking Pending">dee099fb87303010d05eeb173cbb350b</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 03:49:43</sys_created_on>
+        <sys_db_object display_value="" name="question_choice">question_choice</sys_db_object>
+        <sys_id>0b58aadda7284a8081049406963f4e40</sys_id>
+        <sys_metadata>bc9113f987703010d05eeb173cbb3524</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Booking Pending</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_scope_delete display_value="">59505f08103c4900b3d0d37c573a7b09</sys_scope_delete>
+        <sys_update_name>question_choice_bc9113f987703010d05eeb173cbb3524</sys_update_name>
+        <sys_update_version display_value="question_choice_bc9113f987703010d05eeb173cbb3524">b09113f987703010d05eeb173cbb3527</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-24 03:49:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="dl_definition_rel_match">
+    <dl_definition_rel_match action="INSERT_OR_UPDATE">
+        <dl_definition display_value="Hotel Lookup Rules">2c7605d187147010d05eeb173cbb356b</dl_definition>
+        <exact_match>true</exact_match>
+        <matcher_table>x_563615_client_ho_dl_u_hotellookup</matcher_table>
+        <matcher_table_field>employee_department</matcher_table_field>
+        <source_table>x_563615_client_ho_clients_hotel_booking</source_table>
+        <source_table_field>employee_department</source_table_field>
+        <sys_class_name>dl_definition_rel_match</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-05-22 12:09:41</sys_created_on>
+        <sys_id>bcb6c5d187147010d05eeb173cbb3575</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>employee_department</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>dl_definition_rel_match_bcb6c5d187147010d05eeb173cbb3575</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-05-22 12:09:41</sys_updated_on>
+    </dl_definition_rel_match>
+</record_update>
