@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="DELETE">
+        <category>custom</category>
+        <css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>booking_hotel</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:17:57</sys_created_on>
+        <sys_id>ade4201a87113010d05eeb173cbb351e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>booking_hotel</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>sp_page_ade4201a87113010d05eeb173cbb351e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:24:26</sys_updated_on>
+        <title>booking hotel</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="DELETE" query="documentkey=ade4201a87113010d05eeb173cbb351e"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</application>
+        <file_path/>
+        <instance_id>7eb0ffbfdb0a24d052dd2f17d49619c9</instance_id>
+        <instance_name>dev106450</instance_name>
+        <name>sp_page_ade4201a87113010d05eeb173cbb351e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page"><sp_page action="INSERT_OR_UPDATE"><category>custom</category><css>section.page {&#13;
+	background-color: $sp-homepage-bg;&#13;
+}&#13;
+section.page, main.body {&#13;
+    padding-top: 0px !important;&#13;
+}&#13;
+</css><draft>false</draft><dynamic_title_structure/><id>booking_hotel</id><internal>false</internal><omit_watcher>false</omit_watcher><public>false</public><roles/><seo_script/><short_description/><sys_class_name>sp_page</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-07-14 05:17:57</sys_created_on><sys_id>ade4201a87113010d05eeb173cbb351e</sys_id><sys_mod_count>1</sys_mod_count><sys_name>booking_hotel</sys_name><sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package><sys_policy/><sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope><sys_update_name>sp_page_ade4201a87113010d05eeb173cbb351e</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-07-14 05:24:26</sys_updated_on><title>booking hotel</title><use_seo_script>false</use_seo_script></sp_page><sys_translated_text action="delete_multiple" query="documentkey=ade4201a87113010d05eeb173cbb351e"/></record_update>]]></payload>
+        <payload_hash>-1506421477</payload_hash>
+        <record_name>booking_hotel</record_name>
+        <reverted_from/>
+        <source>073fd8e687c13010d05eeb173cbb35f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:24:26</sys_created_on>
+        <sys_id>b466605a87113010d05eeb173cbb359b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17aa37932be0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:24:26</sys_updated_on>
+        <type>Page</type>
+        <update_guid>f866a41aa6113010393013951cbaafea</update_guid>
+        <update_guid_history>f866a41aa6113010393013951cbaafea:-1506421477,b9e4201abb113010d9adbf6add8d2720:-341425204</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="booking_hotel">9b982c9a87113010d05eeb173cbb3589</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:34:10</sys_created_on>
+        <sys_db_object display_value="" name="sp_page">sp_page</sys_db_object>
+        <sys_id>15630500d98640618290639e7f5020c1</sys_id>
+        <sys_metadata>ade4201a87113010d05eeb173cbb351e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>booking_hotel</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_scope_delete display_value="">59505f08103c4900b3d0d37c573a7b09</sys_scope_delete>
+        <sys_update_name>sp_page_ade4201a87113010d05eeb173cbb351e</sys_update_name>
+        <sys_update_version display_value="sp_page_ade4201a87113010d05eeb173cbb351e">b466605a87113010d05eeb173cbb359b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:34:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

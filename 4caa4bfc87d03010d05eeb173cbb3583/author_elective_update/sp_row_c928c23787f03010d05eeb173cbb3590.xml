@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row">
+    <sp_row action="DELETE">
+        <class_name/>
+        <order>1</order>
+        <sp_column/>
+        <sp_container display_value="Copy of hotelbooking (1) - Container 1">0528823787f03010d05eeb173cbb35e8</sp_container>
+        <sys_class_name>sp_row</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 07:51:01</sys_created_on>
+        <sys_id>c928c23787f03010d05eeb173cbb3590</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>sp_row_c928c23787f03010d05eeb173cbb3590</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-24 07:51:01</sys_updated_on>
+    </sp_row>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</application>
+        <file_path/>
+        <instance_id>7eb0ffbfdb0a24d052dd2f17d49619c9</instance_id>
+        <instance_name>dev106450</instance_name>
+        <name>sp_row_c928c23787f03010d05eeb173cbb3590</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_row"><sp_row action="INSERT_OR_UPDATE"><class_name/><order>1</order><sp_column/><sp_container display_value="Copy of hotelbooking (1) - Container 1">0528823787f03010d05eeb173cbb35e8</sp_container><sys_class_name>sp_row</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-06-24 07:51:01</sys_created_on><sys_id>c928c23787f03010d05eeb173cbb3590</sys_id><sys_mod_count>0</sys_mod_count><sys_name>1</sys_name><sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package><sys_policy/><sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope><sys_update_name>sp_row_c928c23787f03010d05eeb173cbb3590</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-06-24 07:51:01</sys_updated_on></sp_row></record_update>]]></payload>
+        <payload_hash>1185223141</payload_hash>
+        <record_name>1</record_name>
+        <reverted_from/>
+        <source>8da15df287103010d05eeb173cbb351f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 07:51:01</sys_created_on>
+        <sys_id>8928c23787f03010d05eeb173cbb3592</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a3d0035aa0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-24 07:51:01</sys_updated_on>
+        <type>Row</type>
+        <update_guid>c128c237c0f0301021b57d9365a0da92</update_guid>
+        <update_guid_history>c128c237c0f0301021b57d9365a0da92:1185223141</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="1">e298e89a87113010d05eeb173cbb3581</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:34:07</sys_created_on>
+        <sys_db_object display_value="" name="sp_row">sp_row</sys_db_object>
+        <sys_id>07aceb9283694d4f9ae56897a9205521</sys_id>
+        <sys_metadata>c928c23787f03010d05eeb173cbb3590</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_scope_delete display_value="">59505f08103c4900b3d0d37c573a7b09</sys_scope_delete>
+        <sys_update_name>sp_row_c928c23787f03010d05eeb173cbb3590</sys_update_name>
+        <sys_update_version display_value="sp_row_c928c23787f03010d05eeb173cbb3590">8928c23787f03010d05eeb173cbb3592</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:34:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

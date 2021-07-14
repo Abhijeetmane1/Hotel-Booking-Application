@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>h-square</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Book Your Hotel">ce1e07b587703010d05eeb173cbb3559</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">cd5dec5e87113010d05eeb173cbb3582</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:54:46</sys_created_on>
+        <sys_id>415dec5e87113010d05eeb173cbb3585</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Book Hotel</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>sp_instance_link_415dec5e87113010d05eeb173cbb3585</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 06:29:22</sys_updated_on>
+        <title>Book Hotel</title>
+        <type>url</type>
+        <url>https://dev106450.service-now.com/book?id=sc_cat_item&amp;sys_id=ce1e07b587703010d05eeb173cbb3559&amp;sysparm_category=615c8bb587703010d05eeb173cbb35bb</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=415dec5e87113010d05eeb173cbb3585"/>
+</record_update>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_ais">
+    <sp_instance_ais action="DELETE">
+        <active>true</active>
+        <ai_search_source_filter/>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <disable_all_suggestions>false</disable_all_suggestions>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <placeholder/>
+        <roles/>
+        <search_application/>
+        <search_results_configuration/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">e837ac1a87113010d05eeb173cbb35bc</sp_column>
+        <sp_widget display_value="Homepage Search">200fbd96cb20020000f8d856634c9ca1</sp_widget>
+        <sys_class_name>sp_instance_ais</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:30:18</sys_created_on>
+        <sys_id>2ab7ec5a87113010d05eeb173cbb3594</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Welcome To Hotel Booking</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>sp_instance_ais_2ab7ec5a87113010d05eeb173cbb3594</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:30:43</sys_updated_on>
+        <title>Welcome To Hotel Booking</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance_ais>
+    <sys_translated_text action="DELETE" query="documentkey=2ab7ec5a87113010d05eeb173cbb3594"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</application>
+        <file_path/>
+        <instance_id>7eb0ffbfdb0a24d052dd2f17d49619c9</instance_id>
+        <instance_name>dev106450</instance_name>
+        <name>sp_instance_ais_2ab7ec5a87113010d05eeb173cbb3594</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_ais"&gt;&lt;sp_instance_ais action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;ai_search_source_filter/&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;disable_all_suggestions&gt;false&lt;/disable_all_suggestions&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;placeholder/&gt;&lt;roles/&gt;&lt;search_application/&gt;&lt;search_results_configuration/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;e837ac1a87113010d05eeb173cbb35bc&lt;/sp_column&gt;&lt;sp_widget display_value="Homepage Search"&gt;200fbd96cb20020000f8d856634c9ca1&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_ais&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-07-14 05:30:18&lt;/sys_created_on&gt;&lt;sys_id&gt;2ab7ec5a87113010d05eeb173cbb3594&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Welcome To Hotel Booking&lt;/sys_name&gt;&lt;sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho"&gt;4caa4bfc87d03010d05eeb173cbb3583&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Client Hotel Booking Application"&gt;4caa4bfc87d03010d05eeb173cbb3583&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_ais_2ab7ec5a87113010d05eeb173cbb3594&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-07-14 05:30:43&lt;/sys_updated_on&gt;&lt;title&gt;Welcome To Hotel Booking&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"typeahead_search": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_ais&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=2ab7ec5a87113010d05eeb173cbb3594"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1945039733</payload_hash>
+        <record_name>Welcome To Hotel Booking</record_name>
+        <reverted_from/>
+        <source>073fd8e687c13010d05eeb173cbb35f4</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:30:43</sys_created_on>
+        <sys_id>b8d7e85a87113010d05eeb173cbb3574</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17aa37ef25e0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:30:43</sys_updated_on>
+        <type>Instance with Search</type>
+        <update_guid>f0d7e85aa91130105eca40e1c4ec0774</update_guid>
+        <update_guid_history>f0d7e85aa91130105eca40e1c4ec0774:-1945039733,a2b7ec5af211301067bef33a0495dd96:661654319</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Welcome To Hotel Booking">47982c9a87113010d05eeb173cbb3557</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:34:09</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_ais">sp_instance_ais</sys_db_object>
+        <sys_id>3eaed1ee62d840caaed7fc14c98e4411</sys_id>
+        <sys_metadata>2ab7ec5a87113010d05eeb173cbb3594</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Welcome To Hotel Booking</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_scope_delete display_value="">59505f08103c4900b3d0d37c573a7b09</sys_scope_delete>
+        <sys_update_name>sp_instance_ais_2ab7ec5a87113010d05eeb173cbb3594</sys_update_name>
+        <sys_update_version display_value="sp_instance_ais_2ab7ec5a87113010d05eeb173cbb3594">b8d7e85a87113010d05eeb173cbb3574</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:34:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph>home</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item display_value="Book Your Hotel">ce1e07b587703010d05eeb173cbb3559</sc_cat_item>
+        <sc_category/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">4928c23787f03010d05eeb173cbb35a5</sp_column>
+        <sp_page/>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 07:51:02</sys_created_on>
+        <sys_id>0d28c23787f03010d05eeb173cbb35a7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book Hotel</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_update_name>sp_instance_link_0d28c23787f03010d05eeb173cbb35a7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-24 07:51:02</sys_updated_on>
+        <title>Book Hotel</title>
+        <type>sc_cat_item</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=0d28c23787f03010d05eeb173cbb35a7"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</application>
+        <file_path/>
+        <instance_id>7eb0ffbfdb0a24d052dd2f17d49619c9</instance_id>
+        <instance_name>dev106450</instance_name>
+        <name>sp_instance_link_0d28c23787f03010d05eeb173cbb35a7</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;home&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item display_value="Book Your Hotel"&gt;ce1e07b587703010d05eeb173cbb3559&lt;/sc_cat_item&gt;&lt;sc_category/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;4928c23787f03010d05eeb173cbb35a5&lt;/sp_column&gt;&lt;sp_page/&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2021-06-24 07:51:02&lt;/sys_created_on&gt;&lt;sys_id&gt;0d28c23787f03010d05eeb173cbb35a7&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Book Hotel&lt;/sys_name&gt;&lt;sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho"&gt;4caa4bfc87d03010d05eeb173cbb3583&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Client Hotel Booking Application"&gt;4caa4bfc87d03010d05eeb173cbb3583&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_0d28c23787f03010d05eeb173cbb35a7&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2021-06-24 07:51:02&lt;/sys_updated_on&gt;&lt;title&gt;Book Hotel&lt;/title&gt;&lt;type&gt;sc_cat_item&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Color Box",
+		"displayValue": "Color Box"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0d28c23787f03010d05eeb173cbb35a7"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-557845791</payload_hash>
+        <record_name>Book Hotel</record_name>
+        <reverted_from/>
+        <source>8da15df287103010d05eeb173cbb351f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-06-24 07:51:02</sys_created_on>
+        <sys_id>0528c23787f03010d05eeb173cbb35aa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17a3d0036f70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-06-24 07:51:02</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>4d28c237bef030102c9ebf3e460025a9</update_guid>
+        <update_guid_history>4d28c237bef030102c9ebf3e460025a9:-557845791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Book Hotel">3a98e89a87113010d05eeb173cbb35a5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-07-14 05:34:08</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>576ff4c100d2459b9f663621cc565311</sys_id>
+        <sys_metadata>0d28c23787f03010d05eeb173cbb35a7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book Hotel</sys_name>
+        <sys_package display_value="Client Hotel Booking Application" source="x_563615_client_ho">4caa4bfc87d03010d05eeb173cbb3583</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Client Hotel Booking Application">4caa4bfc87d03010d05eeb173cbb3583</sys_scope>
+        <sys_scope_delete display_value="">59505f08103c4900b3d0d37c573a7b09</sys_scope_delete>
+        <sys_update_name>sp_instance_link_0d28c23787f03010d05eeb173cbb35a7</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_0d28c23787f03010d05eeb173cbb35a7">0528c23787f03010d05eeb173cbb35aa</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-07-14 05:34:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
